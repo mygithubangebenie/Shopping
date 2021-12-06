@@ -6,3 +6,5 @@ class Seller < User
   end
 
 end
+
+
